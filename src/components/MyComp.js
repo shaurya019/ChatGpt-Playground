@@ -15,3 +15,4 @@ const MyComp = ({ data, setData,mini,maxi,step }) => {
 }
 
 export default MyComp
+
